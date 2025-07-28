@@ -65,6 +65,9 @@ Application Demo (Controlling Window Shutters) <br/>
  https://github.com/user-attachments/assets/0a526e8f-fcf6-460c-9b01-787cc9176b1a
   <br/>
 
+ <h2> 🔒 Code & App Privacy Notice</h2>
+The source code, wiring diagrams, and the mobile application used in this project are private and not publicly shared. This is because the product is being sold directly to customers, and the intellectual property is part of a commercial offering. If you're interested in more details, collaboration, or purchasing the system, feel free to contact me directly.
+
 
 
  
