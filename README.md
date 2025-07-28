@@ -61,76 +61,11 @@ Application Demo (Controlling Window Shutters) <br/>
   <img src="https://i.imgur.com/8y9c5TU.jpeg" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-RemoteXY settings  <br/>
-<img src="https://i.imgur.com/YeBJQEL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Pins & Variables Declaration : <br/>
-<img src="https://i.imgur.com/PZIu9xg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-void setup()  <br/>
-<img src="https://i.imgur.com/LpcGoYk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Robot Movement Algorithms with Obstacle Avoidance:  <br/>
-<img src="https://i.imgur.com/vO9yD9V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<br/>
-<img src="https://i.imgur.com/N8Fb9LO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Handles incoming UI commands from the RemoteXY app interface & Start Command Trigger from App &  Reset Button State  <br/>
+<h2> 🎬 Demo Video </h2>
+ https://github.com/user-attachments/assets/0a526e8f-fcf6-460c-9b01-787cc9176b1a
   <br/>
-<img src="https://i.imgur.com/Di0R06x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
- Line Following and Obstacle Detection  <br/>
-<img src="https://i.imgur.com/xt4UNQb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Line Following and Obstacle Detection  <br/>
-<img src="https://i.imgur.com/C5lKYmj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Stop Robot if Not Running  <br/>
-<img src="https://i.imgur.com/FcOUGwc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 
-<h2>Arm-Program walk-through:</h2>
-<p align="center">
-🔧 Servo and Sensor Setup <br/>
-<img src="https://i.imgur.com/OKzV7YU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-🚀 Initialization <br/>
-<img src="https://i.imgur.com/e1oaDBs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-🔁 Main Loop - Object Detection and Response <br/>
-<img src="https://i.imgur.com/ENcLSZO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<h2>Arm-Wiring-Diagram:</h2>
-<p align="center">
- <br/>
-<img src="https://i.imgur.com/zVgTVbZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<h2>Robot-Wiring-Diagram:</h2>
-<p align="center">
- <br/>
-<img src="https://i.imgur.com/FDXksz2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<h2>Demo : </h2>
-https://github.com/user-attachments/assets/fd009389-f377-4bf2-8537-3bc98de77d0d
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
+ 
+
